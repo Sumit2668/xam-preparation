@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.Views.MapLocation">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Button Text="Get GPS location"  
+                         Clicked="OnButtonClicked"  
+                         TextColor="Chocolate"  
+                         FontSize="Default"/>
+                <Label Text="Longitude"  
+                       FontSize="Default"  
+                        TextColor="BlueViolet"/>
+                <Label x:Name="LogitudeLabel"  
+                       FontSize="Default"/>
+                <Label Text="Latitude"  
+                       FontSize="Default"  
+                        TextColor="DarkRed"/>
+                <Label x:Name="LatitudeLabel"   
+                       FontSize="Small"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
