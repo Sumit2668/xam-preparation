@@ -27,5 +27,10 @@ namespace App3
         {
             await Navigation.PushAsync(new MapLocation());
         }
+
+        private async void btnCamera_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CameraPage());
+        }
     }
 }

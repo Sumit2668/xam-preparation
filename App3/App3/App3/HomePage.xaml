@@ -4,8 +4,9 @@
              x:Class="App3.HomePage">
     <ContentPage.Content>
         <StackLayout>
-            <Button x:Name="tstSQL" Text="SQLite" Clicked="tstSQL_Clicked"/>
-            <Button x:Name="tstMap" Text="Map" Clicked="tstMap_Clicked"/>
+            <Button x:Name="tstSQL"    Style="{StaticResource buttonStyle}" Text="SQLite" Clicked="tstSQL_Clicked"/>
+            <Button x:Name="tstMap"    Style="{StaticResource buttonStyle}" Text="Map" Clicked="tstMap_Clicked"/>
+            <Button x:Name="btnCamera" Style="{StaticResource buttonStyle}" Text="Camera" Clicked="btnCamera_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

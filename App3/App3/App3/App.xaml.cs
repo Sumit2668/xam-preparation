@@ -10,8 +10,9 @@ namespace App3
 {
 	public partial class App : Application
 	{
+        public static double ScreenHeight;
+        public static double ScreenWidth;
         static XamCRUD xamdatabase;
-
         public static XamCRUD xamDatabase
         {
             get

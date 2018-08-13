@@ -3,6 +3,60 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App3.App">
 	<Application.Resources>
-    
-	</Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="buttonStyle" TargetType="Button">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <Setter Property="BorderColor" Value="Gray" />
+                <Setter Property="BorderRadius" Value="5" />
+                <Setter Property="BorderWidth" Value="5" />
+                <Setter Property="WidthRequest" Value="200" />
+                <Setter Property="TextColor" Value="Teal" />
+            </Style>
+
+            <Style x:Key="LblHeadLine" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="Gray" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="Large" />
+            </Style>
+            <Style x:Key="LblTitle" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="#9B9B9B" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="Medium" />
+            </Style>
+            <Style x:Key="LblSubHeading" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="#E3E3E3" />
+                <Setter Property="FontAttributes" Value="None" />
+                <Setter Property="FontSize" Value="Medium" />
+            </Style>
+            <Style x:Key="LblBody" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="#B4B4B4" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="Small" />
+            </Style>
+            <Style x:Key="LblBody1" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="#B4B4B4" />
+                <Setter Property="FontAttributes" Value="None" />
+                <Setter Property="FontSize" Value="Small" />
+            </Style>
+            <Style x:Key="LblCaption" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="#B4B4B4" />
+                <Setter Property="FontAttributes" Value="None" />
+                <Setter Property="FontSize" Value="Micro" />
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
 </Application>
