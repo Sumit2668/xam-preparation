@@ -5,7 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="InTheHand.Forms" Version="1.0.2018.810" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Octane.Xam.VideoPlayer" Version="2.2.0" />
     <PackageReference Include="PCLCrypto" Version="2.1.27-alpha" />
+    <PackageReference Include="Plugin.MediaManager" Version="0.4.5" />
+    <PackageReference Include="Plugin.MediaManager.Forms" Version="0.4.5" />
     <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
     <PackageReference Include="sqlite-net-pcl" Version="1.5.166-beta" />
     <PackageReference Include="Xam.Plugin.Geolocator" Version="4.5.0.6" />
@@ -35,9 +40,8 @@
     <EmbeddedResource Update="Views\MapLocation.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="SocialSignup\" />
+    <EmbeddedResource Update="Views\PickerList.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

@@ -32,5 +32,20 @@ namespace App3
         {
             await Navigation.PushAsync(new CameraPage());
         }
+
+        private async void btnWService_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PickerList());
+        }
+
+        private  async void btnVPlayer_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new VideoPlayer());
+        }
+
+        private  void btnInHead_Clicked(object sender, EventArgs e)
+        {
+             Navigation.PushAsync(new VideoLibrary());
+        }
     }
 }

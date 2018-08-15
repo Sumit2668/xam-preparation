@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using Plugin.MediaManager.Forms.iOS;
 using UIKit;
 
 namespace App3.iOS
@@ -22,6 +23,7 @@ namespace App3.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            VideoViewRenderer.Init();
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
