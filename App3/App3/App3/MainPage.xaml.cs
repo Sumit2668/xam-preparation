@@ -52,6 +52,7 @@ namespace App3
         {
             try
             {
+                ((ListView)sender).SelectedItem = null;
                 var item = (Employee)e.Item;
                 Employee el = await App.xamDatabase.GetItemAsync(item.Id);
                 txtname.Text = el.Name;
@@ -90,9 +91,6 @@ namespace App3
             }
         }
 
-        private async void GetId_Clicked(object sender, EventArgs e)
-        {
-            
-        }
+        
     }
 }

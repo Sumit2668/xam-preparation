@@ -3,11 +3,7 @@ using Plugin.Geolocator;
 using Plugin.Permissions;
 using Plugin.Permissions.Abstractions;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 using Xamarin.Forms;
 using Xamarin.Forms.Maps;
@@ -43,10 +39,9 @@ namespace App3.Views
             customMap.Pins.Add(pin);
             customMap.MoveToRegion(MapSpan.FromCenterAndRadius(position, Distance.FromMiles(1.0)));
         }
+
         private async void OnButtonClicked(object sender, EventArgs e)
         {
-
-
             try
             {
                 var status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Location);
@@ -64,16 +59,16 @@ namespace App3.Views
                     var results = await CrossGeolocator.Current.GetPositionAsync(TimeSpan.FromMilliseconds(1000));
                     LatitudeLabel.Text = results.Latitude.ToString();
                     LogitudeLabel.Text= results.Longitude.ToString();
-                    //MyMap.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(37, -122), Distance.FromMiles(0.3)));
+                    var position = new Position(results.Latitude, results.Longitude);
                     var pin = new Pin
                     {
                         Type = PinType.Place,
-                        Position = new Position(results.Latitude, results.Longitude),
+                        Position = position,
                         Label = "Xamarin San Francisco Office",
                         Address = "394 Pacific Ave, San Francisco CA"
                     };
 
-                    var position = new Position(results.Latitude, results.Longitude);
+                    
                     customMap.Circle = new CustomCircle
                     {
                         Position = position,
@@ -82,7 +77,6 @@ namespace App3.Views
 
                     customMap.Pins.Add(pin);
                     customMap.MoveToRegion(MapSpan.FromCenterAndRadius(position, Distance.FromMiles(1.0)));
-
                 }
                 else if (status != PermissionStatus.Unknown)
                 {

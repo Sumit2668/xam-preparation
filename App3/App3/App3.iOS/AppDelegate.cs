@@ -25,6 +25,9 @@ namespace App3.iOS
         {
             VideoViewRenderer.Init();
             global::Xamarin.Forms.Forms.Init();
+            App.ScreenWidth = UIScreen.MainScreen.Bounds.Width;
+            App.ScreenHeight = UIScreen.MainScreen.Bounds.Height;
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

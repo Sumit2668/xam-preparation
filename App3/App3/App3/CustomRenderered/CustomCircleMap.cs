@@ -10,6 +10,7 @@ namespace App3.CustomRenderered
     {
         public CustomCircle Circle { get; set; }
     }
+
     public class CustomCircle
     {
         public Position Position { get; set; }
