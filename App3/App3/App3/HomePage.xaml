@@ -10,7 +10,9 @@
             <Button x:Name="btnCamera" Style="{StaticResource buttonStyle}" Text="Camera" Clicked="btnCamera_Clicked"/>
             <Button x:Name="btnWService" Style="{StaticResource buttonStyle}" Text="Get Data" Clicked="btnWService_Clicked"/>
             <Button x:Name="btnVPlayer" Style="{StaticResource buttonStyle}" Text="Vedeo player" Clicked="btnVPlayer_Clicked"/>
-                <Button x:Name="btnInHead" Style="{StaticResource buttonStyle}" Text="In Head" Clicked="btnInHead_Clicked"/>
+            <Button x:Name="btnInHead" Style="{StaticResource buttonStyle}" Text="In Head" Clicked="btnInHead_Clicked"/>
+            <Button x:Name="btnbvr" Style="{StaticResource buttonStyle}" Text="Behaviour" Clicked="btnbvr_Clicked"/>
+
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

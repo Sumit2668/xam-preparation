@@ -15,6 +15,7 @@ namespace App3
 		public MainPage()
 		{
 			InitializeComponent();
+           
 		}
         //void LoginClick(object sender, EventArgs args)
         //{
@@ -90,7 +91,5 @@ namespace App3
                await DisplayAlert("Error","Message - "+ex.Message,"ok");
             }
         }
-
-        
     }
 }

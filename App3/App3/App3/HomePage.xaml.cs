@@ -1,16 +1,12 @@
 ﻿using App3.Views;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace App3
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class HomePage : ContentPage
 	{
 		public HomePage ()
@@ -46,6 +42,11 @@ namespace App3
         private  void btnInHead_Clicked(object sender, EventArgs e)
         {
              Navigation.PushAsync(new VideoLibrary());
+        }
+
+        private void btnbvr_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new LoginPage());
         }
     }
 }

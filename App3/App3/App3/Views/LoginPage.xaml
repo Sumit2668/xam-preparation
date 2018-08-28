@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App3.Validators"
+             x:Class="App3.Views.LoginPage"
+             BackgroundColor="Black">
+    <ContentPage.Content>
+        <StackLayout Padding="30,20,30,0" >
+            <Image Source="icon" Aspect="AspectFit" HeightRequest="70" WidthRequest="70"/>
+            <Label Text="Welcome To Xamarin Buddy !" HorizontalOptions="CenterAndExpand" FontSize="Medium" TextColor="#DF596C" FontAttributes="Bold"/>
+            <Label Text="Login now and enjoy the pleasures of demo." HorizontalOptions="CenterAndExpand" FontSize="Small" TextColor="#DF596C"/>
+            <BoxView HeightRequest="3" WidthRequest="50" BackgroundColor="#DF596C"/>
+
+            <Label Text="Sign In" HorizontalOptions="End" FontSize="Default" TextColor="#DF596C"/>
+            <StackLayout Spacing="10">
+                <Entry x:Name="txtname" Placeholder="Email" Keyboard="Email" PlaceholderColor="White" TextColor="White" >
+                    <Entry.Behaviors>
+                        <local:EmailValidatorBehavior />
+                    </Entry.Behaviors>
+                </Entry>
+                <Entry x:Name="txtpassword" Placeholder="Password" Keyboard="Default" IsPassword="True" PlaceholderColor="White" TextColor="White" >
+                    <Entry.Behaviors>
+                        <local:PasswordValidationBehavior/>
+                    </Entry.Behaviors>
+                </Entry>
+                <Label Text="Forgot Password?" VerticalTextAlignment="End" HorizontalOptions="Start" FontSize="Micro" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Forget_Tapped"/>
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+            <StackLayout HorizontalOptions="FillAndExpand" Padding="0,20,0,0">
+                <Button x:Name="btnSignIn" Text="Sign In" HorizontalOptions="FillAndExpand" 
+                        BackgroundColor="White" TextColor="Black" BorderColor="#DF596C" BorderRadius="5" BorderWidth="5" />
+
+                 <StackLayout Spacing="5" Orientation="Horizontal" HorizontalOptions="End">
+                    <Label Text="Don't have an account?" VerticalTextAlignment="End" HorizontalOptions="Start" FontSize="Micro" TextColor="White" FontAttributes="Italic"/>
+                    <Label Text="Sign Up" HorizontalOptions="End" FontSize="Micro" TextColor="Red" FontAttributes="Bold">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="SignUp_Tapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

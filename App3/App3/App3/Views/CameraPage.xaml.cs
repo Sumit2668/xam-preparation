@@ -120,6 +120,7 @@ namespace App3.Views
 
            await DisplayAlert("Video Selected", "Location: " + file.Path, "OK");
             file.Dispose();
+            
         }
     }
 	

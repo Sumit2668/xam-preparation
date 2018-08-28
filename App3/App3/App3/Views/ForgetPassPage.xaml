@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App3.Validators"
+             x:Class="App3.Views.ForgetPassPage"
+             BackgroundColor="Gray">
+    <ContentPage.Content>
+        <StackLayout Padding="35" >
+            <StackLayout HorizontalOptions="CenterAndExpand" >
+                <Label Text="Wonder" TextColor="White" FontSize="32" FontAttributes="Bold" HorizontalOptions="Center"/>
+                <Label Text="UI Design By Xamarin Buddy" TextColor="White" Font="18,Bold"/>
+            </StackLayout>
+            <Label Text="Forgot your password?" HorizontalOptions="CenterAndExpand" FontSize="Medium" TextColor="#DF596C"/>
+            <Label Text="Don't worry type your email here and we will recover it for you." HorizontalOptions="CenterAndExpand" FontSize="Small" TextColor="#DF596C"/>
+            <BoxView HeightRequest="3" WidthRequest="30" BackgroundColor="#DF596C"/>
+            <Label Text="Forgot Password" HorizontalOptions="End" FontSize="Default" TextColor="#DF596C">
+
+            </Label>
+            <StackLayout Spacing="45" Padding="0,20">
+                <Entry x:Name="txtname" Placeholder="Email" Keyboard="Email" PlaceholderColor="White" TextColor="White" >
+                    <Entry.Behaviors>
+                        <local:EmailValidatorBehavior />
+                    </Entry.Behaviors>
+                </Entry>
+                <Button x:Name="btnSend" Text="Send" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Black" BorderColor="#DF596C" BorderRadius="5" BorderWidth="5" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
