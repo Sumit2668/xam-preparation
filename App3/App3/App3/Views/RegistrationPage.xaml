@@ -2,9 +2,37 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App3.Validators"
+             xmlns:local1="clr-namespace:App3.CustomRenderered"
              x:Class="App3.Views.RegistrationPage"
              BackgroundColor="White"
              Title="Sign Up">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <OnPlatform x:Key="KeyCornerRadius" x:TypeArguments="x:Double">
+                <On Platform="iOS">5</On>
+                <On Platform="Android">8</On>
+            </OnPlatform>
+
+            <OnPlatform x:Key="KeyHeightRequest" x:TypeArguments="x:Double">
+                <On Platform="iOS">40</On>
+                <On Platform="Android">60</On>
+            </OnPlatform>
+
+            <Style x:Key="EntryStyle" TargetType="local1:CurvedCornerEntry">
+                <Setter Property="PlaceholderColor" Value="Gray"/>
+                <Setter Property="BorderColor" Value="Gray"/>
+                <Setter Property="ImageHeight" Value="25"/>
+                <Setter Property="ImageWidth" Value="25"/>
+                <Setter Property="CornerRadius" Value="{StaticResource KeyCornerRadius}"/>
+                <Setter Property="BorderWidth" Value="2"/>
+                <Setter Property="HeightRequest" Value="{StaticResource KeyHeightRequest}"/>
+                <Setter Property="FontSize" Value="Small"/>
+            </Style>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
     <ContentPage.Content>
         <StackLayout Padding="30,20,30,0" >
             <Image Source="icon" Aspect="AspectFit" HeightRequest="70" WidthRequest="70"/>
@@ -24,12 +52,15 @@
                         <local:PasswordValidationBehavior/>
                     </Entry.Behaviors>
                 </Entry>
-                <Entry Placeholder="Confirm Password" Keyboard="Default" IsPassword="True" PlaceholderColor="Black" >
+                <Entry Placeholder="Confirm Password" Keyboard="Default" IsPassword="True" PlaceholderColor="Black">
                     <Entry.Behaviors>
                         <local:PasswordValidationBehavior />
                         <local:CompareValidationBehavior BindingContext="{x:Reference txtpassword}" Text="{Binding Text}"/>
                     </Entry.Behaviors>
                 </Entry>
+                <local1:CurvedCornerEntry LeftImage="ac_no" RightImage="ac_no" x:Name="txtDate" ImageAlignment="Both"
+                                          CursorVisible="False"  Placeholder="Call Date" />
+
                 <Label Text="Sign In" HorizontalOptions="End" FontSize="Micro" TextColor="Red" FontAttributes="Bold">
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Tapped="SignIn_Tapped"/>

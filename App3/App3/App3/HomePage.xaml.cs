@@ -1,4 +1,5 @@
-﻿using App3.Views;
+﻿using App3.NativeMethods;
+using App3.Views;
 using System;
 
 using Xamarin.Forms;
@@ -16,6 +17,11 @@ namespace App3
             AdId.AdUnitId = "ca-app-pub-5134727995066217/2997781125";
 		}
 
+        protected override void OnAppearing()
+        {
+           string ss = StaticMethods.SerialNo();
+           StaticMethods.ShowToast(ss);
+        }
         private async void tstSQL_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new MainPage());

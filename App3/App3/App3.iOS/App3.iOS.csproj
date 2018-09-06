@@ -89,9 +89,11 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="DependencyService\IosMethods.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="PageRenderer\AdMobViewRenderer.cs" />
+    <Compile Include="PageRenderer\CurvedCornerEntryIos.cs" />
     <Compile Include="Resources\VideoPicker.cs" />
     <Compile Include="SQLite\SQLiteHelper.cs" />
     <None Include="Entitlements.plist" />
@@ -147,6 +149,9 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="BTProgressHUD">
+      <Version>1.2.0.6</Version>
+    </PackageReference>
     <PackageReference Include="InTheHand.Forms">
       <Version>1.0.2018.810</Version>
     </PackageReference>
@@ -207,5 +212,13 @@
   <ItemGroup>
     <BundleResource Include="Resources\NoFlashButton.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <BundleResource Include="Resources\ac_no%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ac_no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ac_no%402x.png" />
+  </ItemGroup>
 </Project>
