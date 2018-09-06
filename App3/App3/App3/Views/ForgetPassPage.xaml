@@ -3,7 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App3.Validators"
              x:Class="App3.Views.ForgetPassPage"
-             BackgroundColor="Gray">
+             BackgroundColor="White"
+             Title="Forget Password">
+    
     <ContentPage.Content>
         <StackLayout Padding="35" >
             <StackLayout HorizontalOptions="CenterAndExpand" >
@@ -17,12 +19,12 @@
 
             </Label>
             <StackLayout Spacing="45" Padding="0,20">
-                <Entry x:Name="txtname" Placeholder="Email" Keyboard="Email" PlaceholderColor="White" TextColor="White" >
+                <Entry x:Name="txtname" Placeholder="Email" Keyboard="Email" PlaceholderColor="Black" >
                     <Entry.Behaviors>
                         <local:EmailValidatorBehavior />
                     </Entry.Behaviors>
                 </Entry>
-                <Button x:Name="btnSend" Text="Send" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Black" BorderColor="#DF596C" BorderRadius="5" BorderWidth="5" />
+                <Button x:Name="btnSend" Text="Send" Style="{StaticResource buttonStyle}"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

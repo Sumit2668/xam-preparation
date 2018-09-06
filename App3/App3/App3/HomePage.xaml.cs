@@ -12,6 +12,8 @@ namespace App3
 		public HomePage ()
 		{
 			InitializeComponent ();
+            //BindingContext = new HomePageViewModel();
+            AdId.AdUnitId = "ca-app-pub-5134727995066217/2997781125";
 		}
 
         private async void tstSQL_Clicked(object sender, EventArgs e)
@@ -47,6 +49,19 @@ namespace App3
         private void btnbvr_Clicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new LoginPage());
+        }
+    }
+
+    public class HomePageViewModel:BindableObject
+    {
+        public string AdUnitId { get; set; } = "ca-app-pub-5134727995066217/2997781125";
+
+        public void Test()
+        {
+            if (Device.RuntimePlatform == Device.iOS)
+                AdUnitId = "iOS Key";
+            else if (Device.RuntimePlatform == Device.Android)
+                AdUnitId = "ca-app-pub-5134727995066217/2997781125";
         }
     }
 }

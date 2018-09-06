@@ -24,6 +24,9 @@ namespace App3.Droid
             
             base.OnCreate(bundle);
              VideoViewRenderer.Init();
+
+            Android.Gms.Ads.MobileAds.Initialize(ApplicationContext, "ca-app-pub-5134727995066217~7640551954");
+
             CrossCurrentActivity.Current.Init(this, bundle);
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
@@ -33,7 +36,7 @@ namespace App3.Droid
 
             App.ScreenWidth = (width - 0.5f) / density;
             App.ScreenHeight = (height - 0.5f) / density;
-
+            
             LoadApplication(new App());
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

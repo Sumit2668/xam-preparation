@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App3.Validators"
              x:Class="App3.Views.RegistrationPage"
-             BackgroundColor="Black">
+             BackgroundColor="White"
+             Title="Sign Up">
     <ContentPage.Content>
         <StackLayout Padding="30,20,30,0" >
             <Image Source="icon" Aspect="AspectFit" HeightRequest="70" WidthRequest="70"/>
@@ -12,18 +13,18 @@
             <BoxView HeightRequest="3" WidthRequest="50" BackgroundColor="#DF596C"/>
             <Label Text="Sign Up" HorizontalOptions="End" FontSize="Default" TextColor="#DF596C"/>
             <StackLayout Spacing="10">
-                <Entry x:Name="txtuser" Placeholder="User Name" Keyboard="Default"  PlaceholderColor="White" TextColor="White" />
-                <Entry x:Name="txtemail" Placeholder="Email" Keyboard="Email"  PlaceholderColor="White" TextColor="White">
+                <Entry x:Name="txtuser" Placeholder="User Name" Keyboard="Default"  PlaceholderColor="Black"  />
+                <Entry x:Name="txtemail" Placeholder="Email" Keyboard="Email"  PlaceholderColor="Black" >
                     <Entry.Behaviors>
                         <local:EmailValidatorBehavior/>
                     </Entry.Behaviors>
                 </Entry>
-                <Entry x:Name="txtpassword" Placeholder="Password" Keyboard="Default" IsPassword="True" PlaceholderColor="White" TextColor="White"  >
+                <Entry x:Name="txtpassword" Placeholder="Password" Keyboard="Default" IsPassword="True" PlaceholderColor="Black"  >
                     <Entry.Behaviors>
                         <local:PasswordValidationBehavior/>
                     </Entry.Behaviors>
                 </Entry>
-                <Entry Placeholder="Confirm Password" Keyboard="Default" IsPassword="True" PlaceholderColor="White" TextColor="White" >
+                <Entry Placeholder="Confirm Password" Keyboard="Default" IsPassword="True" PlaceholderColor="Black" >
                     <Entry.Behaviors>
                         <local:PasswordValidationBehavior />
                         <local:CompareValidationBehavior BindingContext="{x:Reference txtpassword}" Text="{Binding Text}"/>
@@ -36,7 +37,7 @@
                 </Label>
             </StackLayout>
             <StackLayout HorizontalOptions="FillAndExpand" Padding="0,20,0,0">
-                <Button x:Name="btnSignUp" Text="Sign Up" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Black" BorderColor="#DF596C" BorderRadius="5" BorderWidth="5" />
+                <Button x:Name="btnSignUp" Text="Sign Up" Style="{StaticResource buttonStyle}"/>
              </StackLayout>
         </StackLayout>
     </ContentPage.Content>

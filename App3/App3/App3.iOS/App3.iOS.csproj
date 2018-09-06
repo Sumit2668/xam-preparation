@@ -91,6 +91,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="PageRenderer\AdMobViewRenderer.cs" />
     <Compile Include="Resources\VideoPicker.cs" />
     <Compile Include="SQLite\SQLiteHelper.cs" />
     <None Include="Entitlements.plist" />
@@ -179,6 +180,9 @@
     <PackageReference Include="Xamarin.Essentials">
       <Version>0.9.1-preview</Version>
     </PackageReference>
+    <PackageReference Include="Xamarin.Firebase.iOS.AdMob">
+      <Version>7.31.0.1</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="3.2.0.637442-pre1" />
     <PackageReference Include="Xamarin.Forms.Maps">
       <Version>3.2.0.637442-pre1</Version>
@@ -203,7 +207,5 @@
   <ItemGroup>
     <BundleResource Include="Resources\NoFlashButton.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="PageRenderer\" />
-  </ItemGroup>
+  <ItemGroup />
 </Project>

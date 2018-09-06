@@ -84,6 +84,9 @@
     <PackageReference Include="Xamarin.Essentials">
       <Version>0.9.1-preview</Version>
     </PackageReference>
+    <PackageReference Include="Xamarin.Firebase.Ads">
+      <Version>60.1142.1</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="3.2.0.637442-pre1" />
     <PackageReference Include="Xamarin.Android.Support.Design" Version="27.0.2" />
     <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="27.0.2" />
@@ -96,6 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
+    <Compile Include="PageRenderer\AdMobViewRenderer.cs" />
     <Compile Include="PageRenderer\CustomCircleMapRenderer.cs" />
     <Compile Include="PageRenderer\VideoPicker.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />

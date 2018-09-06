@@ -20,7 +20,7 @@ namespace App3.Validators
         {
             int result;
             bool isValid = int.TryParse(args.NewTextValue, out result);
-            ((Entry)sender).TextColor = isValid ? Color.White : Color.Red;
+            ((Entry)sender).TextColor = isValid ? Color.Black : Color.Red;
         }
     }
 }

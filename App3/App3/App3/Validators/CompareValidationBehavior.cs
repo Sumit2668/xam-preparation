@@ -27,7 +27,7 @@ namespace App3.Validators
         {
             bool IsValid = false;
             IsValid = e.NewTextValue == Text;
-            ((Entry)sender).TextColor = IsValid ? Color.White : Color.Red;
+            ((Entry)sender).TextColor = IsValid ? Color.Black : Color.Red;
         }
 
         protected override void OnDetachingFrom(Entry bindable)

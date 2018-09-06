@@ -22,7 +22,7 @@ namespace App3.Validators
         {
             bool IsValid = false;
             IsValid = (Regex.IsMatch(e.NewTextValue, emailRegex, RegexOptions.IgnoreCase, TimeSpan.FromMilliseconds(250)));
-            ((Entry)sender).TextColor = IsValid ? Color.White : Color.Red;
+            ((Entry)sender).TextColor = IsValid ? Color.Black : Color.Red;
         }
 
         protected override void OnDetachingFrom(Entry bindable)
