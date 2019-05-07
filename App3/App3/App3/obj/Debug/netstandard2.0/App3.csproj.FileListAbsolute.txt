@@ -1,26 +1,26 @@
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.csprojAssemblyReference.cache
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\CustomControls\UnderLineLabel .xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\ProviderLoginPage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\CameraPage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\ForgetPassPage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\LoginSuccessfully.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\LoginWithFB.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\MapLocation.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\PickerList.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\RegistrationPage.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\TeamMemberSignInView.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\VideoLibrary.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\VideoPlayer.xaml.g.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.csproj.CoreCompileInputs.cache
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfoInputs.cache
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfo.cs
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb
-D:\Sumit\xam-preparation\App3\App3\App3\bin\Debug\netstandard2.0\App3.deps.json
-D:\Sumit\xam-preparation\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll
-D:\Sumit\xam-preparation\App3\App3\App3\bin\Debug\netstandard2.0\App3.pdb
-D:\Sumit\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\bin\Debug\netstandard2.0\App3.deps.json
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\bin\Debug\netstandard2.0\App3.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\CustomControls\UnderLineLabel .xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\ProviderLoginPage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\CameraPage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\ForgetPassPage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\LoginSuccessfully.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\LoginWithFB.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\MapLocation.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\PickerList.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\RegistrationPage.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\TeamMemberSignInView.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\VideoLibrary.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\Views\VideoPlayer.xaml.g.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.csproj.CoreCompileInputs.cache
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfoInputs.cache
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfo.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3\obj\Debug\netstandard2.0\App3.csprojAssemblyReference.cache

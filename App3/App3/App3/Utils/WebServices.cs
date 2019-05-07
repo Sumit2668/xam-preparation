@@ -11,7 +11,7 @@ namespace App3.Utils
 {
     class WebServices
     {
-        public readonly string BaseURL = @"https://xam-tutorial.herokuapp.com/api/v1/control-desc?control=";
+        public readonly string BaseURL = @"https://my-x-tutorial.herokuapp.com/api/v1/control-desc?control=";
 
         #region Login WebService
         public async Task<MainHeading> ControlDetails(string ctrname)

@@ -1,179 +1,179 @@
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.nuget.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.csprojAssemblyReference.cache
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Gass.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Ads.Lite.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Ads.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Common.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Iid.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Analytics.Impl.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Analytics.dll.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\proguard\dc663e480.txt
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\dc663e48.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\0757626b.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\2f4d086a.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\ea5c07c4.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\d87effcf.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\proguard\e843ef2a0.txt
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\e843ef2a.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\d99a9fda.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\1f4fd9cc.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\d9f2c52f.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\1db41832.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\211c6191.proguard.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.dll
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\com.companyname.App3.apk
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\com.companyname.App3-Signed.apk
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.dll
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\libraryimports.cache.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res.flag
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.csproj.CoreCompileInputs.cache
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XamlC.stamp
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.csproj.CopyComplete
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.dll
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\bin\com.companyname.App3.apk
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\layout\tabbar.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\layout\toolbar.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\values\styles.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\values\colors.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\flashbutton.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\noflashbutton.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\takephotobutton.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\togglecamerabutton.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\layout\cameralayout.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\xml\file_paths.xml
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\ac_no.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable-hdpi\ac_no.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable-xhdpi\ac_no.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable-xxhdpi\ac_no.png
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\R.cs.flag
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\R.txt
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\uploadflags.txt
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Mono.Android.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\mscorlib.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\SQLite-net.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Core.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Json.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Net.Http.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Numerics.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Numerics.Vectors.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Xml.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Xml.Linq.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Forms.Core.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Data.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Transactions.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.IO.Compression.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.ComponentModel.Composition.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Runtime.Serialization.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.ServiceModel.Internals.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Web.Services.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Mono.Security.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Acr.UserDialogs.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\FormsViewGroup.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\InTheHand.Forms.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\InTheHand.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Auth.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\App3.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Mono.Android.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\mscorlib.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\SQLite-net.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Core.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Json.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Numerics.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Xml.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Data.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Transactions.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Mono.Security.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\App3.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Acr.UserDialogs.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Auth.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Acr.UserDialogs.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\App3.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\InTheHand.Forms.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\InTheHand.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Auth.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\App3.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Mono.Android.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Mono.Security.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\mscorlib.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\SQLite-net.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Core.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Data.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Json.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Numerics.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Transactions.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Xml.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.dll
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\App3.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Acr.UserDialogs.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.Platform.Android.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Auth.dll.mdb
-D:\Sumit\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.dll
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\com.companyname.App3.apk
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\com.companyname.App3-Signed.apk
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.dll
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.nuget.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.csprojAssemblyReference.cache
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Gass.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Ads.Lite.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.GooglePlayServices.Ads.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Common.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Iid.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Analytics.Impl.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\Xamarin.Firebase.Analytics.dll.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\proguard\dc663e480.txt
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\dc663e48.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\0757626b.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\2f4d086a.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\ea5c07c4.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\d87effcf.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\proguard\e843ef2a0.txt
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\e843ef2a.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\d99a9fda.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\1f4fd9cc.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\d9f2c52f.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\1db41832.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XbdMerge\211c6191.proguard.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\libraryimports.cache.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res.flag
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.csproj.CoreCompileInputs.cache
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\XamlC.stamp
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.csproj.CopyComplete
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.dll
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\App3.Android.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\bin\com.companyname.App3.apk
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\layout\tabbar.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\layout\toolbar.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\values\styles.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\values\colors.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\flashbutton.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\noflashbutton.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\takephotobutton.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\togglecamerabutton.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\layout\cameralayout.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\xml\file_paths.xml
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable\ac_no.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable-hdpi\ac_no.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable-xhdpi\ac_no.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\res\drawable-xxhdpi\ac_no.png
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\R.cs.flag
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\R.txt
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\uploadflags.txt
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Mono.Android.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\mscorlib.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\SQLite-net.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Core.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Json.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Net.Http.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Numerics.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Numerics.Vectors.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Xml.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Xml.Linq.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Data.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Transactions.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.IO.Compression.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\System.Web.Services.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Mono.Security.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\App3.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\mscorlib.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\SQLite-net.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Core.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Json.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Xml.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Data.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\InTheHand.Forms.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\InTheHand.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Auth.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\App3.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Acr.UserDialogs.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Auth.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Acr.UserDialogs.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\App3.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\InTheHand.Forms.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\InTheHand.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Auth.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\App3.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\mscorlib.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\SQLite-net.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Core.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Data.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Json.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\System.Xml.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\bin\Debug\App3.Android.dll
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\App3.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Acr.UserDialogs.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\InTheHand.Forms.Platform.Android.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Auth.dll.mdb
+E:\Xamarin Git Projects\xam-preparation\App3\App3\App3.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

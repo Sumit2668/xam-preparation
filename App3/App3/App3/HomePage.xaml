@@ -14,6 +14,7 @@
                 <Button x:Name="btnInHead" Style="{StaticResource buttonStyle}" Text="In Head" Clicked="btnInHead_Clicked"/>
                 <Button x:Name="btnbvr" Style="{StaticResource buttonStyle}" Text="Behaviour" Clicked="btnbvr_Clicked"/>
                 <Button x:Name="apicalling" Style="{StaticResource buttonStyle}" Text="API Calling" Clicked="Apicalling_Clicked"/>
+                <Button x:Name="apipicker" Style="{StaticResource buttonStyle}" Text="API Picker" Clicked="Apipicker_Clicked"/>
                 <local:AdMobView x:Name="AdId"  />
             </StackLayout>
         </ScrollView>

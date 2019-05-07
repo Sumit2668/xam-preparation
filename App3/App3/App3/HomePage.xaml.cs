@@ -60,7 +60,12 @@ namespace App3
         private async void Apicalling_Clicked(object sender, EventArgs e)
         {
            await Navigation.PushAsync(new TeamMemberSignInView());
-            App.AppSetup.SignInViewModel.GetAllEmployeeListCommand.Execute(null);
+           // App.AppSetup.SignInViewModel.GetAllEmployeeListCommand.Execute(null);
+        }
+
+        private async void Apipicker_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PickerList());
         }
     }
 

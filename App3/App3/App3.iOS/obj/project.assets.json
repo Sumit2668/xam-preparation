@@ -2324,7 +2324,7 @@
       ]
     },
     "CommonServiceLocator/2.0.4": {
-      "sha512": "YpXfV5l6kv1iQRDfhQnN4RxocbnNehU/rAAS62IlaQUTAKN3WoUbtx9MHwE98Pb09mBemSs4xhVqFhXq27rjxw==",
+      "sha512": "PUYeC0w+gGG9+T1/sREZaKQAXErlakvhHwEmxMmtIVJeULBB7QdF80IXkVFeu8pz4Nzx81N2zfwk4WaVn3PeXg==",
       "type": "package",
       "path": "commonservicelocator/2.0.4",
       "files": [
@@ -2343,7 +2343,7 @@
       ]
     },
     "InTheHand.Forms/1.0.2018.810": {
-      "sha512": "vgqonEs8ReQGEpm7ktLD2NG6/EwbtsjPvGTsJuODAJXvL7knATYjkCJTaHKf6+1IDVRqHpjOX/Ab/rMUrrh9dQ==",
+      "sha512": "5BpTJunMbk6NqSOy85u4rI/jmeRWNAgTchMC5uT4HMPnlzuNt6kWKV3gkAifW2t2iOmUdPv76aBq9NKUOxXMGA==",
       "type": "package",
       "path": "inthehand.forms/1.0.2018.810",
       "files": [
@@ -2392,12 +2392,11 @@
       ]
     },
     "Microsoft.Bcl.Build/1.0.21": {
-      "sha512": "OWKKenlT8tQsRi4/U0r05w9LPGi82LW5DwlwA+81M4VP/wD2+1TIoa2NAMcaIaj8RaZbhNjchA+QvgwZnnXxzg==",
+      "sha512": "sgHu4mIt0+NVGyI12Bj4hLPypNK55UOH+ologj2LqDCjxq3EbIxe/uAtHjY+fEwbE1dtsAHG8SXHf+V/EYbKTg==",
       "type": "package",
       "path": "microsoft.bcl.build/1.0.21",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "License-Stable.rtf",
         "build/Microsoft.Bcl.Build.Tasks.dll",
         "build/Microsoft.Bcl.Build.targets",
@@ -2406,7 +2405,7 @@
       ]
     },
     "MvvmLightLibs/5.4.1.1": {
-      "sha512": "xYpVzOYnIz/M6T0pdc3w5t0vrt2ZKspSS+CZjQ+pZE+5yHv9qXSWkncHJXb6D7Egstalso4ivnIUkA1xEClViw==",
+      "sha512": "3VCzGx0spwiuOIUR5vx0ysdnIPEKhAf3+j8tjoUVP1d69WiVWtTc7aBNt1DTsF4afGWjoSxSeq5Ulguk+PESgA==",
       "type": "package",
       "path": "mvvmlightlibs/5.4.1.1",
       "files": [
@@ -2421,15 +2420,12 @@
         "lib/SL5/System.Windows.Interactivity.dll",
         "lib/monoandroid1/GalaSoft.MvvmLight.Extras.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.Extras.dll",
-        "lib/monoandroid1/GalaSoft.MvvmLight.Extras.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Extras.pdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll",
-        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.dll",
-        "lib/monoandroid1/GalaSoft.MvvmLight.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.pdb",
         "lib/net35/GalaSoft.MvvmLight.Extras.dll",
         "lib/net35/GalaSoft.MvvmLight.Extras.pdb",
@@ -2515,13 +2511,11 @@
         "lib/wpa81/GalaSoft.MvvmLight.pdb",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.XML",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.dll",
-        "lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.dll.mdb",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.pdb",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.XML",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.XML",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.dll",
-        "lib/xamarin.ios10/GalaSoft.MvvmLight.dll.mdb",
         "lib/xamarin.ios10/GalaSoft.MvvmLight.pdb",
         "mvvmlightlibs.5.4.1.1.nupkg.sha512",
         "mvvmlightlibs.nuspec"
@@ -2558,12 +2552,11 @@
       ]
     },
     "Octane.Xam.VideoPlayer/2.2.0": {
-      "sha512": "oP34MzatjKYqX6a5mEc8RGGOiCJw3JXr84s2MMTvSEHiMfzjzs74de0fW7cqOmO9/lbK/vWIOwujEVskG3sF+w==",
+      "sha512": "1LKt4nAPuXPkyzWB0B6CTW3UCThH0FfZCual6qhESI7gcUvu7FymuUOfyGqVYWq0Np+x89fWyW0fTF1vEPC8nw==",
       "type": "package",
       "path": "octane.xam.videoplayer/2.2.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/MonoAndroid10/Octane.Xamarin.Forms.VideoPlayer.Android.dll",
         "lib/MonoAndroid10/Octane.Xamarin.Forms.VideoPlayer.Android.xml",
         "lib/MonoAndroid10/Octane.Xamarin.Forms.VideoPlayer.dll",
@@ -2585,12 +2578,11 @@
       ]
     },
     "PCLCrypto/2.1.27-alpha": {
-      "sha512": "L1DxqFvj0bGLH030qTfB1n/sl9FtFunRLAlUv/b0bZUEDa7HF1Vzl3Keb0GMEPnwW/wp6jATMlZ37KY8FCaXWg==",
+      "sha512": "il/zR1KBCK8IYg+l/pV8sVpfMJ9dI+j/d6K/p1QOyTDmTqM90h6KJuxIDIN30b7w468avOSJfV69S083kKj5/Q==",
       "type": "package",
       "path": "pclcrypto/2.1.27-alpha",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/monoandroid23/PCLCrypto.dll",
         "lib/monoandroid23/PCLCrypto.xml",
         "lib/net45/PCLCrypto.dll",
@@ -2612,12 +2604,11 @@
       ]
     },
     "PInvoke.BCrypt/0.5.126": {
-      "sha512": "UOOJbbZu3TgjVlI0F9/mHGKZzcuo9zkODJh/DqNjIeA6IXIsULNbMUSih9EnXGg1TrBl1Dt/3rPsRqIifyNCgQ==",
+      "sha512": "SAElPpzMJpeNc7OptGW6AL5SZvS+wnzjPMlIqKC7Vyfe5kP2Yv/1ix/0e9U7sedDnyitzAXPJpsyA/9XRFMrtQ==",
       "type": "package",
       "path": "pinvoke.bcrypt/0.5.126",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net20/PInvoke.BCrypt.dll",
         "lib/net20/PInvoke.BCrypt.xml",
         "lib/net40/PInvoke.BCrypt.dll",
@@ -2635,12 +2626,11 @@
       ]
     },
     "PInvoke.Kernel32/0.5.126": {
-      "sha512": "9bmKjOd7FwZk/hvv+LXc2X6SFXtx2Wba4dV+fJf9h/yMkWanfX5SbH0FD48yUhcGZjOb0l/kYHbiwNwwzkZfUg==",
+      "sha512": "uTUrHpnojgaUSnV5/QvUTm1qF/41EppxfaKy5Wiw+7FbXsamhntTnPXoUW20MPziBJdwzl5I3v6Mc9IXK70qVA==",
       "type": "package",
       "path": "pinvoke.kernel32/0.5.126",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net20/PInvoke.Kernel32.dll",
         "lib/net20/PInvoke.Kernel32.xml",
         "lib/net40/PInvoke.Kernel32.dll",
@@ -2658,12 +2648,11 @@
       ]
     },
     "PInvoke.NCrypt/0.5.126": {
-      "sha512": "fkdXkK0+eStBs2yBaAJzFP9V/CcJGIojonyH7XMlPqzmY4OMkL40AUa9N94oLQsv/MiBZnxRdDPJmeKnmiIfuw==",
+      "sha512": "AZDdbiQKSeIHMFcQiFMpgWwsZao+u2W3GLtklosEE2UnzaVX8GZGBrkpRtQ7ipoPKKdprZqCRCQM/zplF4Wg9Q==",
       "type": "package",
       "path": "pinvoke.ncrypt/0.5.126",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net20/PInvoke.NCrypt.dll",
         "lib/net20/PInvoke.NCrypt.xml",
         "lib/net40/PInvoke.NCrypt.dll",
@@ -2681,12 +2670,11 @@
       ]
     },
     "PInvoke.Windows.Core/0.5.126": {
-      "sha512": "5cQIruQ3x5m8sXRMuy5lVwLRq+atq3HwOt7V051WqVOxrs8gCodQirpORAg9eRci74X7JMyznaRUQ6K5hlzAUw==",
+      "sha512": "RkmNm6cHErUMXdjz4m2FobEUJyIyFecPUtPYuU1KtTYIuuitdXSomDoFjJn0KORttKNPEgN3iLZ+UkQwz/61/A==",
       "type": "package",
       "path": "pinvoke.windows.core/0.5.126",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net20/PInvoke.Windows.Core.dll",
         "lib/net20/PInvoke.Windows.Core.xml",
         "lib/net35/PInvoke.Windows.Core.dll",
@@ -2702,12 +2690,11 @@
       ]
     },
     "Plugin.MediaManager/0.4.5": {
-      "sha512": "uvAKzT4XZmwJkXPWgImQkf0gD9Gf0vwBc5qkf4ldX5cOOc0GE2tOXFDeYDMMIj4tvRwHqBU4mL1ch3zJLeBelA==",
+      "sha512": "cpTcuGY+HUDhz2spS4jlB8zmlVsULzbR+YYcxXanKnARUmXO7L66gC+MiJYhVfOEhg96EKYPGEGPuIPtzST3+A==",
       "type": "package",
       "path": "plugin.mediamanager/0.4.5",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/MonoAndroid/Plugin.MediaManager.Abstractions.dll",
         "lib/MonoAndroid/Plugin.MediaManager.Abstractions.xml",
         "lib/MonoAndroid/Plugin.MediaManager.dll",
@@ -2737,12 +2724,11 @@
       ]
     },
     "Plugin.MediaManager.Forms/0.4.5": {
-      "sha512": "CodOsBFomzY3h+Xz+DECR5LP5Ui9NwAKRzzP1v3FOpMc6nzpePreEnQ5W7zkFvgxCmDpoav2zePGbqxu6TeT5w==",
+      "sha512": "djWih2/cBd8Sypg+TkDJ2eEQYUGtK7amFvPBlmRVeyetAIhMtPsrJkytvSRnVgYml1ArJvN6f33dc5U3U2avuA==",
       "type": "package",
       "path": "plugin.mediamanager.forms/0.4.5",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/MonoAndroid/Plugin.MediaManager.Forms.Android.dll",
         "lib/MonoAndroid/Plugin.MediaManager.Forms.dll",
         "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Plugin.MediaManager.Forms.dll",
@@ -2781,12 +2767,11 @@
       ]
     },
     "sqlite-net-pcl/1.5.166-beta": {
-      "sha512": "xINH/NJWuaZhQyCNNA3AVmDqbxDXQvyY1LHzti1QD/NiQj81ODdAA5XpUevIGxeE6NoHxsyzp1H+lWf+qcMttw==",
+      "sha512": "a7VbroGBauEKY+UJeP1Z5UyrSHagigKgJGa5pVOyKDOI5/cPuCN2YUP4lhLReZdn73CrPqz2U7jsmZBoyZ0kXA==",
       "type": "package",
       "path": "sqlite-net-pcl/1.5.166-beta",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/netstandard1.1/SQLite-net.deps.json",
         "lib/netstandard1.1/SQLite-net.dll",
         "lib/netstandard1.1/SQLite-net.pdb",
@@ -2799,12 +2784,11 @@
       ]
     },
     "SQLitePCLRaw.bundle_green/1.1.8": {
-      "sha512": "NA7WDIM1KBwQwS7zz0Oux5tM/LU+8LPFw2n6s1H79MzEQsOVtYIwJ3AAGWJ1G6FyCIc8pkVmWCQqxyFG65TAZQ==",
+      "sha512": "He+XMpqLXzpvZtjVfeaqxXXQzq5H4OuDEdUYwXXOJ7rQHQiF8b8BQzS+kuxCdsaDnMsrksdFVmAeXx2nNcAsjw==",
       "type": "package",
       "path": "sqlitepclraw.bundle_green/1.1.8",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "build/wp8/SQLitePCLRaw.bundle_green.targets",
         "build/wp80/arm/SQLitePCLRaw.batteries_green.dll",
         "build/wp80/arm/SQLitePCLRaw.batteries_v2.dll",
@@ -2846,12 +2830,11 @@
       ]
     },
     "SQLitePCLRaw.core/1.1.8": {
-      "sha512": "m9dCUYulwjbZqKE2J+YZTEFhfSs8WT804BnhMf6OCS7K0PHFVDpY13dILFkcKnmNXazhqFwO2rWwDc/CJc8THw==",
+      "sha512": "JTvlAlVHeMW9QaTcu+3iLB9ZEGtceb+uM1MOlfyAnEocShSacHEzwPNsden7MlWb0QjPX3Y3sDMW0ymGhH8Jtg==",
       "type": "package",
       "path": "sqlitepclraw.core/1.1.8",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/MonoAndroid/SQLitePCLRaw.core.dll",
         "lib/Xamarin.Mac20/SQLitePCLRaw.core.dll",
         "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll",
@@ -2872,19 +2855,18 @@
       ]
     },
     "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.8": {
-      "sha512": "v8rZv4gbA6CmI8Iit1GIJODs4GdPb5Pvp+pMlIAwU8vRuCGnMnnpcPjb7o7PTIDCIvoRp14m/rDV8SR0IeNiyA==",
+      "sha512": "DCjvMCRcltZHtH3fnOpJBJWyDstyPora10VaU6WAw51ZpLcwhII1ahQvMGfemAyeokajLxIDCEm/VM0Prn1bPw==",
       "type": "package",
       "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.8",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll",
         "sqlitepclraw.provider.sqlite3.ios_unified.1.1.8.nupkg.sha512",
         "sqlitepclraw.provider.sqlite3.ios_unified.nuspec"
       ]
     },
     "System.Net.Http/4.3.4": {
-      "sha512": "aOa2d51SEbmM+H+Csw7yJOuNZoHkrP2XnAurye5HWYgGVVU54YZDvsLUYRv6h18X3sPnjNCANmN7ZhIPiqMcjA==",
+      "sha512": "Fj7e73NNHwof97gFPTJuq8gv6G895yxkZt14DVnZdEh4gvKl8WrksCwNjIp/JeYX/yu/qxM/iOv9ai+ZY3Fp7Q==",
       "type": "package",
       "path": "system.net.http/4.3.4",
       "files": [
@@ -2973,13 +2955,12 @@
       ]
     },
     "Validation/2.4.15": {
-      "sha512": "/ZqBogGZA1puB2Fc/Umw+mKmeo/Y7jscM92hJkew8R1frJR2ymavtHYVdH1PDbGvbvFo+K+lg7LbUg01GT6Jyg==",
+      "sha512": "KQFOtJKKhaXzuSiZhkFaFzQEdYsA+EN/XqKZDYwsGDOrS0Nxu6qzCvNTsDF4xtkiZbBA6u7I59QnsuP2O2fZgg==",
       "type": "package",
       "path": "validation/2.4.15",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "README.md",
         "lib/net20/Validation.dll",
         "lib/net20/Validation.xml",
@@ -3033,12 +3014,11 @@
       ]
     },
     "Xam.Plugin.Media/4.0.1.5": {
-      "sha512": "PxL0vcTXpS79l2KgtaJBShcPVMRK2HC5J08vG6hKTC7hk5+3RjgFrdX0N6Gd4oF8pxVxV2ia7rhYnjxRCMWZtw==",
+      "sha512": "a5l/M2Tl06BqBX/uhM/pr+q1jDkh2tRQr5Ne9rjAuD9VYn5STE+7kVFTzIUNPMnMr9PZLJkWP5WAr/tBN5oepw==",
       "type": "package",
       "path": "xam.plugin.media/4.0.1.5",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/monoandroid71/Plugin.Media.dll",
         "lib/monoandroid71/Plugin.Media.xml",
         "lib/netstandard1.0/Plugin.Media.dll",
@@ -3058,16 +3038,16 @@
       ]
     },
     "Xamarin.Auth/1.5.0": {
-      "sha512": "fWsTKKx6QOH0n1KdyjybNFTVC260p09FcfRFv5peIGCpcIQaorNqC4mozuW38DrjWccNpXm8wFArwQdQxTU8Aw==",
+      "sha512": "T5g2X9HFALoXYCg4FmEwZRmV8GbTr4wy0767jS6X2ePRdUNu0fpj/XHqcEG1jORdJ4JXkxe5nvaJClKBCqNVmQ==",
       "type": "package",
       "path": "xamarin.auth/1.5.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/MonoAndroid10/Xamarin.Auth.dll",
         "lib/MonoAndroid10/Xamarin.Auth.dll.mdb",
         "lib/MonoAndroid10/Xamarin.Auth.pdb",
         "lib/Xamarin.iOS10/Xamarin.Auth.dll",
+        "lib/Xamarin.iOS10/Xamarin.Auth.dll.mdb",
         "lib/Xamarin.iOS10/Xamarin.Auth.pdb",
         "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+XamarinIOS10/Xamarin.Auth.dll",
         "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+XamarinIOS10/Xamarin.Auth.pdb",
@@ -3113,7 +3093,7 @@
       ]
     },
     "Xamarin.Essentials/0.9.1-preview": {
-      "sha512": "gHEyqijtFwhPjr3qVxYf4OpA7oXg193AdaXnFwv7834iVcCsphlZS6TXIwxnbd6aPgcX07X3hllBxUU6KKwjhg==",
+      "sha512": "y7CvsSgj0zzXwDpaIf1tGxtEt/P1zvbhsSwXiFTv6g/zC8X3IVtDZQR37oEajSZEQPF6uFJHg5QMlEZgchTkbg==",
       "type": "package",
       "path": "xamarin.essentials/0.9.1-preview",
       "files": [
@@ -3140,7 +3120,7 @@
       ]
     },
     "Xamarin.Firebase.iOS.AdMob/7.31.0.1": {
-      "sha512": "bsBKTN9FXp3T7VtgQXxGwdPUOmGcBzTv8jWkFtNNrAvYGtpf1LOtrIpUKncXFEGj5MylVauKZOVqb2n1IouL2A==",
+      "sha512": "uD15apCS47q1VqEyAUdEFFWU2nORIsAVrtd1C6uj+lMGENiFDEZutAldRzOqw53ZFeITHnJ+2jqtfUwkvbT8DQ==",
       "type": "package",
       "path": "xamarin.firebase.ios.admob/7.31.0.1",
       "files": [
@@ -3151,7 +3131,7 @@
       ]
     },
     "Xamarin.Firebase.iOS.Analytics/5.0.1": {
-      "sha512": "c/TBOc/YxiXOv6A66RuBuu6kspp1V3ykUcNbog/O5rTTMlVSirDvXG3hatX25YyFtZuFvNO5JrpSCPLwTAolVA==",
+      "sha512": "6xR5MSf0d8WoqjHpd6HwX3MBIt8JE5ROg/lzuppv2oy89/xP5L3RmWJGnic+aUDYz74tPrreMeBf4dLLcBNXzQ==",
       "type": "package",
       "path": "xamarin.firebase.ios.analytics/5.0.1",
       "files": [
@@ -3164,7 +3144,7 @@
       ]
     },
     "Xamarin.Firebase.iOS.Core/5.0.5": {
-      "sha512": "jpyhlBjgsecSYrpyatJL4ko6+RB8QGH1DJSC1p7VvBeTsUQi5W/vvj2DUY0elmFakml6udLofEj4RsFkQ7dyDA==",
+      "sha512": "leB4VkIu8i49omyabir+Ub6cg9r/OFVfe113HHIWjKiZC1xhLjKqIHGhB/qyrrmbc1n58clHGL0dB6pAZUaX7w==",
       "type": "package",
       "path": "xamarin.firebase.ios.core/5.0.5",
       "files": [
@@ -3190,7 +3170,7 @@
       ]
     },
     "Xamarin.Forms/3.2.0.637442-pre1": {
-      "sha512": "Ob6tSzylYX4L4B/UjF/wVoOc23tyF7GTJ5DHbioiw8xBUrDi2ce/I0TzA7bHPeauT6XmI2w6qDQIpB1fLpiCwA==",
+      "sha512": "OeXuMzaKZC072bIpRVWdHM81HuTwANm7hirb1JtstqSS25g4RN7gYyBNKS4p8hqMhz2YQG69KkVsMTdD8bUE+g==",
       "type": "package",
       "path": "xamarin.forms/3.2.0.637442-pre1",
       "files": [
@@ -3342,7 +3322,7 @@
       ]
     },
     "Xamarin.Forms.Maps/3.2.0.637442-pre1": {
-      "sha512": "gvvKG2q4UfLD5DVYtn07lIsqX1RZPV95KEftbtXeJ0g3vtybd2gh3Wzi1eHnQ/D2qkWBL5yuEw9VX0eTZndwIg==",
+      "sha512": "r6ibrx88cLMlSRyU/JjaILcyLDd/yoINEvBGU/ZqNhf/Xn/Dwn5rS3U9R8P48nD717HmfOyboLHUvpPPNxJl4A==",
       "type": "package",
       "path": "xamarin.forms.maps/3.2.0.637442-pre1",
       "files": [
@@ -3374,7 +3354,7 @@
       ]
     },
     "Xamarin.Google.iOS.MobileAds/7.31.0.1": {
-      "sha512": "puns3FkFN0Z52KhBOv0KXRJuySaop8yl+Ov3yHaSQwCHxyfYe0qjA+67NCAWiCvDGyDYGwlyvXHvTVRDBgeSXA==",
+      "sha512": "CzW87ZqAhAy30kGQbfnuu4gH7V9sw4f2TATOVlgJUvP58QUigPphX3TLz9Tk5aM0mxQwS1wH39xcq3TjCpp2Mw==",
       "type": "package",
       "path": "xamarin.google.ios.mobileads/7.31.0.1",
       "files": [
@@ -3417,21 +3397,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\SUMIT\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sumit\\xam-preparation\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
+      "projectUniqueName": "E:\\Xamarin Git Projects\\xam-preparation\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
       "projectName": "App3.iOS",
-      "projectPath": "D:\\Sumit\\xam-preparation\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Sumit\\xam-preparation\\App3\\App3\\App3.iOS\\obj\\",
+      "projectPath": "E:\\Xamarin Git Projects\\xam-preparation\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
+      "packagesPath": "C:\\Users\\SUMIT\\.nuget\\packages\\",
+      "outputPath": "E:\\Xamarin Git Projects\\xam-preparation\\App3\\App3\\App3.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\SUMIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -3443,8 +3428,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Sumit\\xam-preparation\\App3\\App3\\App3\\App3.csproj": {
-              "projectPath": "D:\\Sumit\\xam-preparation\\App3\\App3\\App3\\App3.csproj"
+            "E:\\Xamarin Git Projects\\xam-preparation\\App3\\App3\\App3\\App3.csproj": {
+              "projectPath": "E:\\Xamarin Git Projects\\xam-preparation\\App3\\App3\\App3\\App3.csproj"
             }
           }
         }
