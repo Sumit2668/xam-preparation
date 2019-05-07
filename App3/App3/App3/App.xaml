@@ -2,7 +2,7 @@
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App3.App">
-	<Application.Resources>
+    <Application.Resources>
         <ResourceDictionary>
             <Style x:Key="buttonStyle" TargetType="Button">
                 <Setter Property="HorizontalOptions" Value="Center" />
@@ -22,7 +22,7 @@
                 <Setter Property="FontAttributes" Value="Bold" />
                 <Setter Property="FontSize" Value="Large" />
             </Style>
-            
+
             <Style x:Key="LblTitle" TargetType="Label">
                 <Setter Property="HorizontalOptions" Value="Start" />
                 <Setter Property="VerticalOptions" Value="Center" />
@@ -30,7 +30,7 @@
                 <Setter Property="FontAttributes" Value="Bold" />
                 <Setter Property="FontSize" Value="Medium" />
             </Style>
-            
+
             <Style x:Key="LblSubHeading" TargetType="Label">
                 <Setter Property="HorizontalOptions" Value="Start" />
                 <Setter Property="VerticalOptions" Value="Center" />
@@ -38,7 +38,7 @@
                 <Setter Property="FontAttributes" Value="None" />
                 <Setter Property="FontSize" Value="Medium" />
             </Style>
-            
+
             <Style x:Key="LblBody" TargetType="Label">
                 <Setter Property="HorizontalOptions" Value="Start" />
                 <Setter Property="VerticalOptions" Value="Center" />
@@ -46,7 +46,7 @@
                 <Setter Property="FontAttributes" Value="Bold" />
                 <Setter Property="FontSize" Value="Small" />
             </Style>
-            
+
             <Style x:Key="LblBody1" TargetType="Label">
                 <Setter Property="HorizontalOptions" Value="Start" />
                 <Setter Property="VerticalOptions" Value="Center" />
@@ -54,7 +54,7 @@
                 <Setter Property="FontAttributes" Value="None" />
                 <Setter Property="FontSize" Value="Small" />
             </Style>
-            
+
             <Style x:Key="LblCaption" TargetType="Label">
                 <Setter Property="HorizontalOptions" Value="Start" />
                 <Setter Property="VerticalOptions" Value="Center" />
@@ -62,7 +62,17 @@
                 <Setter Property="FontAttributes" Value="None" />
                 <Setter Property="FontSize" Value="Micro" />
             </Style>
-
+            <Style x:Key="buttonBold" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#509BE7" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="HeightRequest" Value="50" />
+            </Style>
         </ResourceDictionary>
+
+        <OnPlatform  x:Key="ContentPagePadding" x:TypeArguments="Thickness"
+                         Android="0, 0, 0, 0"
+                         iOS="0, 20, 0, 0"  />
     </Application.Resources>
 </Application>

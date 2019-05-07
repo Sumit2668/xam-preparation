@@ -1,6 +1,8 @@
 using App3.DataAccessLayer;
 using App3.Interfaces;
 using App3.Models;
+using CommonServiceLocator;
+using GalaSoft.MvvmLight.Ioc;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -10,6 +12,7 @@ namespace App3
 {
 	public partial class App : Application
 	{
+        public static AppSetup AppSetup { get; set; }
         public static double ScreenHeight;
         public static double ScreenWidth;
 
@@ -29,8 +32,12 @@ namespace App3
         public App ()
 		{
 			InitializeComponent();
+            ServiceLocator.SetLocatorProvider(() => SimpleIoc.Default);
+            SimpleIoc.Default.Register<AppSetup>();
+            AppSetup = ServiceLocator.Current.GetInstance<AppSetup>();
 
-			MainPage = new NavigationPage( new HomePage());
+
+            MainPage = new NavigationPage( new HomePage());
 		}
 
 		protected override void OnStart ()

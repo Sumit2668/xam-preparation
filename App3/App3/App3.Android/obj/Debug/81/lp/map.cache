@@ -1,6 +1,11 @@
+Acr.UserDialogs
+AndHUD
 App3
-System.Runtime
+CommonServiceLocator
 FormsViewGroup
+GalaSoft.MvvmLight
+GalaSoft.MvvmLight.Extras
+GalaSoft.MvvmLight.Platform
 InTheHand.Forms
 InTheHand.Forms.Platform.Android
 Newtonsoft.Json
@@ -25,6 +30,7 @@ SQLitePCLRaw.batteries_v2
 SQLitePCLRaw.core
 SQLitePCLRaw.lib.e_sqlite3
 SQLitePCLRaw.provider.e_sqlite3
+System.Runtime
 Validation
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -68,7 +74,8 @@ Xamarin.GooglePlayServices.Tasks
 netstandard
 System.Resources.ResourceManager
 System.Diagnostics.Debug
-System.Threading.Tasks
-System.Reflection.Extensions
+System.ComponentModel
 System.Globalization
+System.Reflection.Extensions
+System.Threading.Tasks
 System.Diagnostics.Tools

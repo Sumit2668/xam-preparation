@@ -47,14 +47,20 @@ namespace App3
             await Navigation.PushAsync(new VideoPlayer());
         }
 
-        private  void btnInHead_Clicked(object sender, EventArgs e)
+        private async  void btnInHead_Clicked(object sender, EventArgs e)
         {
-             Navigation.PushAsync(new VideoLibrary());
+            await Navigation.PushAsync(new VideoLibrary());
         }
 
-        private void btnbvr_Clicked(object sender, EventArgs e)
+        private async void btnbvr_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new LoginPage());
+           await Navigation.PushAsync(new LoginPage());
+        }
+
+        private async void Apicalling_Clicked(object sender, EventArgs e)
+        {
+           await Navigation.PushAsync(new TeamMemberSignInView());
+            App.AppSetup.SignInViewModel.GetAllEmployeeListCommand.Execute(null);
         }
     }
 

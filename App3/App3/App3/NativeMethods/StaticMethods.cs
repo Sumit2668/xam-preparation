@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace App3.NativeMethods
@@ -34,7 +35,6 @@ namespace App3.NativeMethods
                 Identifier= DependencyService.Get<IAndroidMethods>().GetIdentifier();
             }
             return Identifier;
-        }
-
+        } 
     }
 }
