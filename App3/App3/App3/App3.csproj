@@ -9,7 +9,7 @@
     <PackageReference Include="CommonServiceLocator" Version="2.0.4" />
     <PackageReference Include="InTheHand.Forms" Version="1.0.2018.810" />
     <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Octane.Xam.VideoPlayer" Version="2.2.0" />
     <PackageReference Include="PCLCrypto" Version="2.1.27-alpha" />
     <PackageReference Include="Plugin.MediaManager" Version="0.4.5" />
